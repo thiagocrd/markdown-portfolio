@@ -1,0 +1,2 @@
+- Fazer **resenhas**
+- Escrever programas em **Python** para encontrar oportunidades de _trades_
